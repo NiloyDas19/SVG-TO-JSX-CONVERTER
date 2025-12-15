@@ -185,7 +185,7 @@ This is an open-source project. Contributions, issues, and feature requests are 
 
 ## 📄 License
 
-MIT License - Feel free to use in personal and commercial projects.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
